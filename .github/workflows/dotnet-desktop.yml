@@ -8,7 +8,7 @@ on:
     branches: [ "master" ]
  
 env:
-  PROJECT_SLN_File_NAME: DOTnet training.sln
+  PROJECT_SLN_File_NAME: TrainingWebApplication.csproj
  
 jobs:
   build:
